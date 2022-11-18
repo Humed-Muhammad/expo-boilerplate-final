@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "farmer",
-    "slug": "farmer",
+    "name": "lotus-expo-bottom",
+    "slug": "lotus-expo-bottom",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./src/assets/images/icon.png",
