@@ -3,9 +3,9 @@
   "author": {
     "name": "Humed Muhammed Essie",
     "email": "humedessie@gmail.com",
-    "url": "https://github.com/Humed-Muhammad"
+    "url": "https://github.com/lotus-lab/expo-boilerplate-final"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
