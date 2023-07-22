@@ -5,7 +5,7 @@
     "email": "humedessie@gmail.com",
     "url": "https://github.com/lotus-lab/expo-boilerplate-final"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "eslint": "eslint --ext js,ts,tsx",
